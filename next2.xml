@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<unmschedule version="1.0.4" pubdate="2016-12-21-18:00:52" source="UNM">
+<usage><guideline url="http://xmlschedule.unm.edu/docs/xml-schedule-usage-guideline.html" /></usage>
+<lookups>
+<parts-of-term>
+   <part-of-term code="1">Full Term</part-of-term>
+   <part-of-term code="1H">First Half Term</part-of-term>
+   <part-of-term code="2H">Second Half Term</part-of-term>
+   <part-of-term code="3Q">Three-Quarter Term</part-of-term>
+   <part-of-term code="C">Combined Sessions</part-of-term>
+   <part-of-term code="INT">Late Starting Courses</part-of-term>
+   <part-of-term code="LAW">Law Term</part-of-term>
+   <part-of-term code="M01">MD Program - Block 1</part-of-term>
+   <part-of-term code="M02">MD Program - Block 2</part-of-term>
+   <part-of-term code="M03">MD Program - Block 3</part-of-term>
+   <part-of-term code="M04">MD Program - Block 4</part-of-term>
+   <part-of-term code="M05">MD Program - Block 5</part-of-term>
+   <part-of-term code="M06">MD Program - Block 6</part-of-term>
+   <part-of-term code="M07">MD Program - Block 7</part-of-term>
+   <part-of-term code="M08">MD Program - Block 8</part-of-term>
+   <part-of-term code="M09">MD Program - Block 9</part-of-term>
+   <part-of-term code="M10">MD Program - Block 10</part-of-term>
+   <part-of-term code="M11">MD Program - Block 11</part-of-term>
+   <part-of-term code="M12">MD Program - Block 12</part-of-term>
+   <part-of-term code="M13">MD Program - Block 13</part-of-term>
+   <part-of-term code="N1H">Nursing First Half Term</part-of-term>
+   <part-of-term code="N2H">Nursing Second Half Term</part-of-term>
+   <part-of-term code="NF">Nursing Full Term</part-of-term>
+   <part-of-term code="OL">Open Learning</part-of-term>
+   <part-of-term code="PBM">MS-BIOM-CR Program</part-of-term>
+   <part-of-term code="REM">Remedial Courses</part-of-term>
+   <part-of-term code="SSP">Special Student Programs</part-of-term>
+</parts-of-term>
+<statuses>
+   <status code="A">Active</status>
+   <status code="C">Cancelled</status>
+   <status code="I">Inactive</status>
+   <status code="M">Cancelled w/Message</status>
+   <status code="R">Reserved</status>
+   <status code="S">Cancelled/Rescheduled</status>
+   <status code="T">Cancelled/Reschedule w/Message</status>
+</statuses>
+</lookups>
+</unmschedule>
